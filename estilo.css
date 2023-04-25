@@ -12,6 +12,9 @@ header{
     background-color: #E08FDB;
     position: relative;
     display: flex;
+    
+    width: auto;
+    
 }
 nav{
   padding-left: 200px
