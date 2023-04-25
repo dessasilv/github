@@ -45,7 +45,9 @@ div.linhas1{
     text-align: center;
     color: #E95DF5;
     font-style:italic;
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px 1px;
+
 }
 
 footer{
