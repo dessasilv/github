@@ -41,6 +41,13 @@ div.linhas div{
   margin:5px 0px;
   padding: 1px;
 }
+div.linhas1{
+    text-align: center;
+    color: #E95DF5;
+    font-style:italic;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
 footer{
     text-align: center;
     background: #E08FDB;
@@ -52,4 +59,4 @@ footer{
 }
 footer:hover{
     color: white
-}ite
+}
