@@ -12,6 +12,8 @@ a:link, a:active, a:visited{
 
   
 header{
+    margin:0px;
+    padding: 0px;
     color:white;
     background-color: #E08FDB;
     position: relative;
